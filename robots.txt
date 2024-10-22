@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eonatiou.github.io/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/app/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/assets/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/css/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/includes/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/item/eonatiou.eonatiou
+Sitemap: https://eonatiou.github.io/src/eonatiou.eonatiou
